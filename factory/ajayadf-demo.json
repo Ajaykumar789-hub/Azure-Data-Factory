@@ -1,0 +1,9 @@
+{
+	"name": "ajayadf-demo",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "68cd9b51-10ae-4b39-85bf-8cc4f084acc8",
+		"tenantId": "b90ed278-8379-41b5-9554-979d12c9b7ab"
+	}
+}

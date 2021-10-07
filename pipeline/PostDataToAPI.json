@@ -15,7 +15,7 @@
 				},
 				"userProperties": [],
 				"typeProperties": {
-					"url": "https://dummy.restapiexample.com/create",
+					"url": "http://dummy.restapiexample.com/api/v1/create",
 					"method": "POST",
 					"headers": {
 						"content-type": "application\\json"

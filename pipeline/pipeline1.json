@@ -17,6 +17,9 @@
 				"typeProperties": {
 					"url": "https://dummy.restapiexample.com/create",
 					"method": "POST",
+					"headers": {
+						"content-type": "application\\json"
+					},
 					"body": {
 						"name": "test",
 						"salary": "123",
